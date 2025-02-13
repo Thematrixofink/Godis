@@ -1,8 +1,8 @@
 package protocol
 
 import (
+	"Godis-Self/interface/redis"
 	"bytes"
-	"github.com/hdt3213/godis/interface/redis"
 )
 
 // PongReply is +PONG
